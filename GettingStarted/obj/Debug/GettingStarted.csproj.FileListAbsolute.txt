@@ -1,0 +1,19 @@
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.config
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\bin\Debug\GettingStarted.pdb
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\bin\Debug\Newtonsoft.Json.dll
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\bin\Debug\openstacknet.dll
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\bin\Debug\SimpleRESTServices.dll
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\bin\Debug\Newtonsoft.Json.xml
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\bin\Debug\openstacknet.xml
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\bin\Debug\SimpleRESTServices.xml
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csprojResolveAssemblyReference.cache
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\obj\Debug\GettingStarted.exe
+c:\users\dona6601\documents\visual studio 2012\Projects\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
+C:\Users\dona6601\Box Sync\Default Sync Folder\@@@VisualStudio2012_Projects\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.config
+C:\Users\dona6601\Box Sync\Default Sync Folder\@@@VisualStudio2012_Projects\GettingStarted\GettingStarted\obj\Debug\GettingStarted.exe
+C:\Users\dona6601\Box Sync\Default Sync Folder\@@@VisualStudio2012_Projects\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
+C:\Users\dona6601\Documents\GitHub\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.config
+C:\Users\dona6601\Documents\GitHub\GettingStarted\GettingStarted\obj\Debug\GettingStarted.exe
+C:\Users\dona6601\Documents\GitHub\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
+C:\Users\dona6601\Documents\GitHub\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csprojResolveAssemblyReference.cache
