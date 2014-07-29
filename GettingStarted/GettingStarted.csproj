@@ -50,6 +50,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AutoScale.CreateScalingGroup.cs" />
+    <Compile Include="AutoScale.CreateScalingPolicy.cs" />
+    <Compile Include="AutoScale.CreateScalingWebhook.cs" />
+    <Compile Include="AutoScale.DeleteScalingGroup.cs" />
+    <Compile Include="AutoScale.DeleteScalingPolicy.cs" />
+    <Compile Include="AutoScale.DeleteScalingWebhook.cs" />
+    <Compile Include="AutoScale.ExecuteScalingPolicy.cs" />
+    <Compile Include="AutoScale.GetScalingGroupDetails.cs" />
+    <Compile Include="AutoScale.GetScalingGroupState.cs" />
+    <Compile Include="AutoScale.GetScalingPolicyDetails.cs" />
+    <Compile Include="AutoScale.GetScalingWebhookDetails.cs" />
+    <Compile Include="AutoScale.ListScalingGroups.cs" />
+    <Compile Include="AutoScale.ListScalingPolicies.cs" />
+    <Compile Include="AutoScale.ListScalingWebhooks.cs" />
+    <Compile Include="AutoScale.UpdateScalingGroupDetails.cs" />
+    <Compile Include="AutoScale.UpdateScalingPolicy.cs" />
+    <Compile Include="AutoScale.UpdateScalingWebhook.cs" />
     <Compile Include="CloudBlockStorage.Authentication.cs" />
     <Compile Include="CloudBlockStorage.CreateSnapshot.cs" />
     <Compile Include="CloudBlockStorage.CreateVolume.cs" />
@@ -100,6 +117,15 @@
     <Compile Include="CloudLoadBalancers.SelectServers.cs" />
     <Compile Include="CloudLoadBalancers.SetCustomErrorPage.cs" />
     <Compile Include="CloudLoadBalancers.SetThrottling.cs" />
+    <Compile Include="CloudMonitoring.CreateAlarm.cs" />
+    <Compile Include="CloudMonitoring.CreateCheck.cs" />
+    <Compile Include="CloudMonitoring.CreateEntity.cs" />
+    <Compile Include="CloudMonitoring.CreateNotification.cs" />
+    <Compile Include="CloudMonitoring.DeleteAlarm.cs" />
+    <Compile Include="CloudMonitoring.DeleteCheck.cs" />
+    <Compile Include="CloudMonitoring.DeleteEntity.cs" />
+    <Compile Include="CloudMonitoring.ListChecks.cs" />
+    <Compile Include="CloudMonitoring.ListMonitoringZones.cs" />
     <Compile Include="CloudQueues.ClaimMessage.cs" />
     <Compile Include="CloudQueues.CreateQueue.cs" />
     <Compile Include="CloudQueues.DeleteMessage.cs" />
